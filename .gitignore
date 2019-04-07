@@ -1,0 +1,6 @@
+__pycache__
+
+Receipts/*
+!Receipts/.gitkeep
+
+shop.db
