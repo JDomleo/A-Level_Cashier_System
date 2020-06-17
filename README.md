@@ -19,7 +19,7 @@ While these are good points to identify, due to lack of knowledge, were not iden
 ### Setup and start
 
 1. Clone this repo
-2. Run the script `MAIN PROGRAM - Cashiersystem.py`
+2. Run the script `MAIN PROGRAM - Cashiersystem.py` using some kind of **Python 3** runner
 3. Log in initially using `1001` as the username and `1234` as the password
 3. Once you make a transaction, a .txt file will be added to the Receipts directory
 4. A database, shop.db, will be created. You can drag and drop the database [here](http://inloop.github.io/sqlite-viewer/) to view it.
