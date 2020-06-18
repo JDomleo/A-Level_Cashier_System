@@ -1,20 +1,42 @@
 # A-level Computer Science Python Project - Cashier System
 ## Jack Domleo - The Redhill Academy Sixth Form - 2017/18
 
-This was my coursework project for my A-level Computer Science course. I decided to program a cashier shop for a pretend client, 'Jenny', that uses a local database.
+_NOTE: There is no git history due to my lack of git knowledge during this project._
+
+### Details
+
+This was my coursework project for my A-level Computer Science course. I decided to program a cashier system for a made-up client, 'Jenny'.
+
+Jenny was looking to setting up her own shop but needed a cashier to make transactions.
+
+This program's features:
+- Login
+- Transaction
+- Makes a "BOOP" sound when an item is input
+- Return/refund items
+- Stock management
+- Employee management
+- Apply discounts
+
+### What's wrong with this program?
 
 There are many things wrong with this project, however due to my knowledge and experience at the time of doing the project, I was not able to identify them. I.e.
-- Uses a local database which is bad if the system goes down
-- The file and naming conventions are terrible and inconsistent
-- The system uses procedural programming and leaves lots of unfinished functions open and running, using up CPU power and memory
-- The GUI uses tkinter and looks awful
-- No user guide
-- Not 100% tested
-- Logo isn't transparent or optimised
-- Lots of repeated code that could be put into functions
-- No version control (Git) since I was not aware of version control until many months after this project was finished and submitted
+- Uses a local database with SQLite3 which is bad if the system goes down
+- The file naming conventions are terrible and inconsistent (I mean, who puts spaces in file names and calls it "MAIN PROGRAM"???)
+- Inconsistent syntax, bounced between pascal and kebab naming
+- Lots of unclosed functions just left open and running
+- tkinter produces some really ugly UI!
+- No user guide, so I forgot how to use it too
+- Not 100% tested, in fact it is technically 0% tested - I only manually tested it myself...
+- Lots of repetition that could be put into functions
+- No version control
+- And probably many more
 
-While these are good points to identify, due to lack of knowledge, were not identifiable at the time. I am planning on redoing this project in Electron JS in the near future, a link will be provided once complete. In the new version, since I have had work experience since this project, I will work towards resolving the issues stated above.
+I do not plan to alter this project because it has been left 'as is' from the time I submitted the coursework and would be a nice souvenir.
+
+### Extras
+
+- [tkinter](https://docs.python.org/3/library/tkinter.html) for GUI
 
 ### Setup and start
 
